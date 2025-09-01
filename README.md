@@ -29,5 +29,3 @@ The VST3 version is provided for people who do not know how to build from source
 
 EULA: Use at your own discretion no warranties are implied if you use this plugin. It was made for Windows 11 24h2. User assumes all risks in using the file, none are known or expected but I have just made this today.
 It is a finished Alpha. If anyone has specific functions to add to this feel free to contact me. If you encounter any bugs also feel free to contact me.
-
-The 
