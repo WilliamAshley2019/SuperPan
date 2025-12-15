@@ -10,8 +10,8 @@ SuperPan is a JUCE-based VST3 audio plugin that offers multiple panning laws for
 
 
 ## Requirements
-- JUCE 8 (last compiled in Juce 8.0.11)
-- Visual Studio 2022
+- JUCE 8 (last compiled in Juce 8.0.11), + VST3 SDK
+- Visual Studio 2022 last compiled in v17.
 - A DAW supporting 64-bit VST3 plugins (for VST3 version)
 
 ## Contributing
